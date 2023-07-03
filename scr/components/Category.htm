@@ -1,0 +1,32 @@
+<ul class="category">
+  <h5>List of works</h5>
+  <li ng-repeat="danhmuc in SnData.danhmuc">
+    <a
+      href="#!tac-pham-thu-phap/{{danhmuc.path}}"
+      ng-click="filterProduct(danhmuc.madanhmuc)"
+      >{{danhmuc.tendanhmuc}}</a
+    >
+  </li>
+</ul>
+
+
+<style>
+  .category {
+    padding: 20px 0;
+    width: 100%;
+    /* display: flex; */
+  }
+
+  .category h5 {
+    color: var(--app-color);
+    text-align: center;
+  }
+
+  .category li {
+    height: 100%;
+  }
+
+  .category li a {
+    padding: 10px 20px;
+  }
+</style>

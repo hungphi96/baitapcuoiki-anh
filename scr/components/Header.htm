@@ -1,0 +1,57 @@
+<header class="container">
+    <div class="hd-top d-flex justify-content-between">
+        <p>Scratchy Nib <span>- Calligraphy of Vietnamese people</span></p>
+        <p>Hotline: 0987654321</p>
+    </div>
+    <div class="hd-bottom">
+        <div class="frame">
+            <div class="frame-top-left"></div>
+            <div class="frame-top-right"></div>
+            <div class="frame-bottom-left"></div>
+            <div class="frame-bottom-right"></div>
+
+            <div ng-include="'components/Logo.htm'"></div>
+            <div ng-include="'components/Menu.htm'" class="d-xl-block d-none"></div>
+            <div class="d-xl-none d-block"><button ng-click="menuHandle()" class="btn-mb"><i class="fa-solid fa-bars"></i></button></div>
+        </div>
+    </div>
+</header>
+
+<style>
+    .hd-top {
+        color: #fff;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .hd-bottom .frame {
+        display: flex;
+        height: 100px;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .hd-bottom .menu {
+        display: flex;
+        height: 100px;
+    }
+
+    .hd-bottom .menu > li > a {
+        line-height: 100px;
+        font-size: 18px;
+        color: var(--app-color);
+        font-weight: bold;
+    }
+    .hd-bottom .menu > li > a:hover {
+        color: #fff;
+    }
+    .btn-mb {
+        background-color: transparent;
+        border: none;
+        color: var(--app-color);
+        font-size: 38px;
+    }
+    /* .hd-bottom .menu li a:hover {
+        background-color: var(--app-color);
+    } */
+</style>

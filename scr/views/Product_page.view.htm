@@ -1,0 +1,38 @@
+<div class="product-page container">
+    <div class="row">
+        <div class="col-3 product-page-category">
+            <div class="frame">
+                <div class="frame-top-left"></div>
+                <div class="frame-top-right"></div>
+                <div class="frame-bottom-left"></div>
+                <div class="frame-bottom-right"></div>
+    
+                <div ng-include="'components/Category.htm'"></div>
+            </div>
+        </div>
+        <div class="col-9 product-page-items">
+            <div class="frame">
+                <div class="frame-top-left"></div>
+                <div class="frame-top-right"></div>
+                <div class="frame-bottom-left"></div>
+                <div class="frame-bottom-right"></div>
+    
+                <div class="row">
+                    <div class="col-12 wow bounceInRight" ng-repeat="product in products" data-wow-delay="{{product.masanpham * 0.015}}s">
+                        <div ng-include="'components/Product.htm'"></div>
+                    </div>
+                </div>
+            </div>
+        </div>        
+    </div>
+</div>
+
+<style>
+    .product-page {
+        margin-top: 40px;
+        
+    }
+    .product-page-items > .row{
+        height: 100vh;
+    }
+</style>

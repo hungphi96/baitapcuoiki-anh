@@ -1,0 +1,117 @@
+<div class="container">
+    <div class="contact">
+      <div class="frame">
+        <div class="frame-top-left"></div>
+        <div class="frame-top-right"></div>
+        <div class="frame-bottom-left"></div>
+        <div class="frame-bottom-right"></div>
+  
+        <div class="contact-content">
+          <div class="row contact-content-top pb-2">
+            <form id="form-contact" class="col-lg-6 col-12" name="contact">
+              <div class="form-group my-2">
+                <input
+                  type="text"
+                  placeholder="Import your name"
+                  class="form-control"
+                  name="name"
+                  ng-model="name"
+                  required
+                />
+              </div>
+              <span class="error" ng-show="contact.name.$error.required"
+                >You need to enter a name
+              </span>
+              <br />
+              <div class="form-group my-2">
+                <input
+                  type="email"
+                  placeholder="Enter your email"
+                  class="form-control"
+                  name="email"
+                  ng-model="email"
+                  required
+                />
+              </div>
+              <span class="error" ng-show="contact.email.$error.required"
+                >You have not entered your email
+              </span>
+              <span class="error" ng-show="contact.email.$error.email"
+                >Email invalidate
+              </span>
+              <br />
+              <div class="form-group my-2">
+                <textarea
+                  cols="30"
+                  rows="5"
+                  class="form-control"
+                  placeholder="Enter your message"
+                  name="content"
+                  ng-model="content"
+                  required="true"
+                ></textarea>
+              </div>
+              <span class="error" ng-show="contact.content.$error.required"
+                >You did not enter content
+              </span>
+              <br />
+              <div class="form-group my-2">
+                <button class="form-contact-submit" type=" submit">Send</button>
+              </div>
+            </form>
+            <div class="col-lg-6 col-12 text-end mt-5">
+              <h4>Connect with us </h4>
+              <ul>
+                <li>Phone: 0987654321</li>
+                <li>Email: thuphapcuanguoiviet@gmail.com</li>
+                <li>
+                  Facebook:
+                  <a href="#" class="text-decoration-underline"
+                    >Thu Phap Cua Nguoi Viet</a
+                  >
+                </li>
+                <li>Address: 8 Ton That Thuyet - My Dinh - Tu Liem - Ha Noi.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <style>
+    .contact {
+      margin-top: 40px;
+      font-size: 20px;
+      /* min-height: 100vh; */
+    }
+  
+    .contact-content-top {
+      padding-top: 40px;
+      /* background-image: url('assets/bg-body2.jpg'); */
+    }
+  
+    .form-contact-submit {
+      margin: 10px 0;
+      width: 150px;
+      height: 40px;
+      line-height: 36px;
+      border: 2px solid var(--app-color);
+      color: #fff;
+      font-weight: bold;
+      background-image: url('assets/bg-heading.jpg');
+    }
+  
+    .form-contact-submit:hover {
+      box-shadow: 0 0 10px 0 var(--app-color);
+    }
+  
+    #form-contact input,
+    #form-contact textarea {
+      border: 2px solid var(--app-color);
+      border-radius: 0;
+    }
+    .error {
+      color: red;
+    }
+  </style>
+  

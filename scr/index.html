@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final exercise</title>
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../node_modules/wow.js/css/libs/animate.css">
+    <link rel="stylesheet" href="../node_modules/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Maiden Orange' rel='stylesheet'>
+    <link rel="stylesheet" href="./css/app.css">
+</head>
+
+<body ng-app="app" ng-controller="appController">
+    <div ng-include="'components/Header.htm'"></div>
+    <div ng-view></div>
+    <div ng-include="'components/Footer.htm'"></div>
+
+
+    
+    <div ng-include="'components/Time.htm'"></div>
+    <div ng-include="'components/Btn_back_to_top.htm'"></div>
+    <div ng-include="'components/User_access.htm'"></div>
+    
+
+
+
+
+    <script type="module" src="app.js"></script>
+    <script src="../node_modules/wow.js/dist/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+</body>
+
+</html>

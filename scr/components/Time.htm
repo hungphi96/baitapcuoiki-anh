@@ -1,0 +1,52 @@
+<div class="time-box d-xl-block d-none">
+    <div class="day">
+        <p>{{h}} : {{min}}</p>
+    </div>
+    <div class="day">
+        <p>{{d}}</p>
+    </div>
+    <div class="month">
+        <p>{{m}}</p>
+    </div>
+    <div class="year">
+        <p>{{y}}</p>
+    </div>
+</div>
+
+<style>
+    .time-box {
+        width: 100px;
+        height: 110px;
+        overflow: hidden;
+        /* margin-top: 200px; */
+        position: fixed;
+        right: 10px;
+        bottom: 10px;
+        transition: all ease-in-out 0.5s;
+    }
+    .time-box .day,
+    .time-box .month,
+    .time-box .year {
+        border-radius: 50%;
+        margin-top: 10px;
+        background-color: red;
+        width: 100px;
+        height: 100px;
+    }
+    .time-box p {
+        cursor: pointer;
+        margin: 0;
+        text-align: center;
+        line-height: 100px;
+        color: var(--app-color);
+        /* font-family: VNI-HLThuphap; */
+        font-family: 'Maiden Orange';
+        font-size: 36px;
+    }
+    .time-box p:hover {
+        font-size: 40px;
+    }
+    .time-box:hover {
+        height: 440px;
+    }
+</style>

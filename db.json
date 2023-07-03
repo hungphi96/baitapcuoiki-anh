@@ -1,0 +1,368 @@
+{
+    "danhmuc": [
+        {
+            "madanhmuc": "1",
+            "tendanhmuc": "Calligraphy on paper",
+            "path": "thu-phap-tren-giay"
+        },
+        {
+            "madanhmuc": "2",
+            "tendanhmuc": "Calligraphy on ceramic",
+            "path": "thu-phap-tren-gom"
+        },
+        {
+            "madanhmuc": "3",
+            "tendanhmuc": "Calligraphy on fruit",
+            "path": "thu-phap-tren-trai-cay"
+        },
+        {
+            "madanhmuc": "4",
+            "tendanhmuc": "Calligraphy on the rock",
+            "path": "thu-phap-tren-da"
+        },
+        {
+            "madanhmuc": "5",
+            "tendanhmuc": "Calligraphy on canvas",
+            "path": "thu-phap-tren-vai"
+        },
+        {
+            "madanhmuc": "7",
+            "tendanhmuc": "Calligraphy on the Bodhi leaf",
+            "path": "thu-phap-tren-la-bo-de"
+        },
+        {
+            "madanhmuc": "6",
+            "tendanhmuc": "Modern calligraphy",
+            "path": "thu-phap-hien-dai"
+        }
+       
+    ],
+    "sanpham": [
+        {
+            "masanpham": "33",
+            "madanhmuc": "1",
+            "tensanpham": "Unique and successful code painting",
+            "anhsanpham": ["assets/sanpham/4.jpg","assets/sanpham/Madao1.jpg","assets/sanpham/Madao2.jpg","assets/sanpham/Madao3.jpg"],
+            "manghenhan": "2",
+            "chitietsanpham": "The successful code is an ancient wish from our forefathers. With roughly the meaning of horses will succeed or have horses will succeed. Attached to the wish is a pretty deep meaning. In the past, horses were the most convenient means of transportation. Because horses include many factors of running fast, endurance, intelligence, loyalty. Human life in the past was very close to this animal. Horses and humans shared the same sufferings in life, in labor, in trade and even when going to war against the enemy. Whenever going to work away from home, the horse is the companion, sometimes for a whole month or a year. When going to battle, often 'go ten to one'. Therefore, 'unique' - 'with a horse coming back' - is a metaphor for success because people have everything. Therefore, the image of the returning horse is seen as a symbol of victory. Or at least when the horse comes home alone, the owner still doesn't lose it, this is considered no loss. If domestic horses still bring more wild horses, they have already started to 'profit'. Wishing a successful code is not only suitable for business people. Which is even very suitable for those who conquer the highway. This greeting is often used on New Year's occasions. Especially in the year of the horse, this wish becomes even more relevant and meaningful.",
+            "path": "ma-dao-thanh-cong"
+        },
+        {
+            "masanpham": "1",
+            "madanhmuc": "1",
+            "tensanpham": "Silent painting",
+            "anhsanpham": ["assets/sanpham/2a.jpg","assets/sanpham/ChuLang1.jpg","assets/sanpham/ChuLang2.jpg","assets/sanpham/ChuLang3.jpg"],
+            "manghenhan": "4",
+            "chitietsanpham": "Word Silence: Modern life can wrap people in a pool of chaotic sounds and make us assimilated without knowing it. In the midst of this noisy world, if you keep quiet, it means you have kept peace for your soul. People's lives today are so hectic that everyone seems to be caught up in a process of non-stop activities to keep up with the world around them. We are like addicted to speed, addicted to noise and easily feel lonely when we separate ourselves from the bustling environment outside. Silence is so still but so powerful—makes your heart light as feathers yet firm as mountains, light as the breeze but strong as a storm. Silence has no formula, no form. It looks like nothing, but when it moves, it's infinite.",
+            "path": "tranh-chu-lang"
+        },
+        {
+            "masanpham": "2",
+            "madanhmuc": "1",
+            "tensanpham": "Paintings of Rings",
+            "anhsanpham": ["assets/sanpham/2b.jpg","assets/sanpham/ChuNhan1.jpg","assets/sanpham/ChuNhan2.jpg","assets/sanpham/ChuNhan3.jpg"],
+            "manghenhan": "3",
+            "chitietsanpham": "Calligraphy is also a noble and meaningful gift to show the kindness - reach - intelligence of the giver as well as the recipient. The word Forbearance helps you always remember to be patient when acting, thinking, or speaking. And forbearance is one of the great virtues that successful people must have. Hanging a picture of the word Ring in the office, living room will help you remember the word Ring without making a mistake.",
+            "path": "tranh-chu-nhan"
+        },
+        {
+            "masanpham": "3",
+            "madanhmuc": "1",
+            "tensanpham": "Family picture",
+            "anhsanpham": ["assets/sanpham/2c.jpg","assets/sanpham/ChuGiadinh1.jpg","assets/sanpham/ChuGiadinh2.jpg","assets/sanpham/ChuGiadinh3.jpg"],
+            "manghenhan": "1",
+            "chitietsanpham": "Family calligraphy paintings are created from hand-drawn art with the style of four treasures (paper, pen, italic, ink). Each Vietnamese calligraphy picture is born showing the thoughts, knowledge and soul of the writer. When holding a pen, in addition to showing the dragon flying phoenix lines, the calligraphers also have to take care of what they are about to write. The family is happy and peaceful. Wealth comes, happiness is full. Looking at the family calligraphy painting, helps viewers to calm down, be at peace and enlighten to more interesting things about life. Painting helps us love family more, helps us feel warm and happy with a peaceful home. According to Eastern concept, Gia Dinh calligraphy painting brings many meanings in terms of feng shui. The messages of wishes, education and life mottos conveyed by the disciples will be meaningful gifts for relatives and friends on the occasion of the birthday, anniversaries, the coming New Year and the coming of spring.",
+            "path": "tranh-chu-gia-dinh"
+        },
+        {
+            "masanpham": "4",
+            "madanhmuc": "1",
+            "tensanpham": "Tra word painting",
+            "anhsanpham": ["assets/sanpham/3d.jpg","assets/sanpham/ChuTra1.jpg","assets/sanpham/ChuTra2.jpg","assets/sanpham/ChuTra3.jpg"],
+            "manghenhan": "2",
+            "chitietsanpham": "Tea has a close relationship with calligraphy, along with martial arts, chess, and meditation, calligraphy is used as a way for people to display and express the views of the sect and religion. The sayings are vividly expressed by calligraphy also help meditators, martial artists, or tea drinkers to understand and always remember the most essential things during practice and study.",
+            "path": "tranh-chu-tra"
+        },
+
+        {
+            "masanpham": "5",
+            "madanhmuc": "2",
+            "tensanpham": "Calligraphy on ceramic pot",
+            "anhsanpham": ["assets/sanpham/gom1a.png","assets/sanpham/gom2.jpg", "assets/sanpham/gom1b.jpg"],
+            "manghenhan": "2",
+            "chitietsanpham": "As a sophisticated person and know the cultural value of tea, you will see the luxurious tea set design with the delicate drawings of the artisan with classic and unique lines. Ceramic teapot products are a very meaningful gift for us to express our gratitude and intimacy to customers, relatives and friends.",
+            "path": "am-gom"
+        },
+        
+        {
+            "masanpham": "7",
+            "madanhmuc": "2",
+            "tensanpham": "Calligraphic ceramic vase",
+            "anhsanpham": ["assets/sanpham/gom3a.jpg", "assets/sanpham/gom3b.jpg","assets/sanpham/gom3.jpg"],
+            "manghenhan": "3",
+            "chitietsanpham": "Unlike other feng shui items, the meaning of the fortune potion besides the effect of activating luck for the homeowner, keeping the prosperity in the family, the fortune pot also shows the level of the owner, respecting the owner. Add elegance to your living space.",
+            "path": "binh-gom"
+        },
+        {
+            "masanpham": "33",
+            "madanhmuc": "2",
+            "tensanpham": "Calligraphy ceramic essential oil diffuser",
+            "anhsanpham": ["assets/sanpham/gom7.jpg", "assets/sanpham/gom7b.jpg","assets/sanpham/gom7a.jpg"],
+            "manghenhan": "5",
+            "chitietsanpham": "Calligraphy ceramic essential oil diffuser with delicate and luxurious design, compact and easy-to-use design, not only helps create fragrance for the room, but also brings a feeling of refreshment and relaxation. In addition to being used to heat and diffuse essential oils, it can also be used as a night light or used as a great decoration for your room space.",
+            "path": "binh-gom"
+        },
+        {
+            "masanpham": "34",
+            "madanhmuc": "2",
+            "tensanpham": "Calligraphic ceramic paintings",
+            "anhsanpham": ["assets/sanpham/gom8.jpg", "assets/sanpham/gom8a.jpg","assets/sanpham/gom8b.jpg"],
+            "manghenhan": "6",
+            "chitietsanpham": "Ceramic paintings hanging in the living room of Bat Trang always have their own position and position in the Bat Trang ceramic product line. Paintings are made from clay or red earth and are fired at very high temperatures from 1000 degrees Celsius to 1500 degrees Celsius for long lasting durability. Ceramic paintings hanging in the living room with beautiful calligraphy that are both elegant, polite and very meaningful will be a suitable choice for decoration in the family or as a gift or gift.",
+            "path": "tranh-gom"
+        },
+        
+        {
+            "masanpham": "8",
+            "madanhmuc": "7",
+            "tensanpham": "Nhan calligraphy on the Bodhi leaf",
+            "anhsanpham": ["assets/sanpham/labode/1.jpg", "assets/sanpham/labode/1a.jpg", "assets/sanpham/labode/1b.jpg","assets/sanpham/labode/1c.jpeg"],
+            "manghenhan": "5",
+            "chitietsanpham": "Bodhi leaf calligraphy is a product line that combines calligraphy and Bodhi leaf. Bodhi leaf is a symbol of Buddhism, imbued with traditional Buddhist culture. Bodhi tree is a symbol of luck and all good things. Bodhi leaf brings peace and protection to overcome difficulties. , storms in life. Bodhi leaf also has the effect of eliminating evil spirits, strengthening luck, attracting good conditions to help life become happy and fulfilling. Calligraphy Bodhi leaf besides those wishes for luck and happiness is also the The message is written in calligraphy on the leaf bones. Forbearance is a virtue that helps people gain peace and love from others. A person who knows how to be patient is someone who respects others, has the opportunity to reflect on what has happened. Therefore, the person who is patient is the one who will be able to achieve great success in life! Also because of the meaningful beauty of the word Forbearance, artists often draw or write calligraphy pictures to hang in the house to remind each other to live is to endure, to help the family peace and prosperity. . From then on, whatever you do will be successful! The combination of the word Forbearance in the Bodhi leaf is a symbol of patience, perseverance, and yielding, which is very important in life.",
+            "path": "la-bo-de-chu-nhan"
+        },
+        {
+            "masanpham": "9",
+            "madanhmuc": "7",
+            "tensanpham": "Binh An calligraphy on the Bodhi leaf",
+            "anhsanpham": ["assets/sanpham/labode/2b.jpg","assets/sanpham/labode/2.jpg","assets/sanpham/labode/2a.jpg","assets/sanpham/labode/2c.jpg"],
+            "manghenhan": "6",
+            "chitietsanpham": "Peace is probably what anyone wants: Peace is the wish of those who stay for the departed, a good wish in the New Year or the wish to have a peaceful life. The image of the Bodhi tree is associated with the Buddha's spiritual practice. Under the Bodhi tree, he was enlightened to the Buddhist teachings and attained righteous results. The name Bodhi is transliterated from Sanskrit as Bodhi, which means awakening, understanding, and enlightenment. Therefore, the Bodhi leaf has many very good meanings. The Bodhi leaf is often shaped like a heart, the heart is usually warm, cultivating human love, so it also symbolizes the Buddha's love for people. Therefore, the Bodhi leaf is associated with the word peace as well as the guardian deity for everyone. The guardian bodhi card will help the homeowner to think things through carefully before deciding on anything. Bodhi leaves will help our mind to be shaded, always illuminated, awakened. When you carry the Bodhi leaf with you, it also blesses you with peace, health, and avoids evil spirits and evil spirits. In feng shui, the Bodhi leaf also helps the owner to have a lot of luck and opportunities in life and work.",
+            "path": "la-bo-de-chu-binh-an"
+        },
+        {
+            "masanpham": "10",
+            "madanhmuc": "7",
+            "tensanpham": "Tam calligraphy on the Bodhi leaf",
+            "anhsanpham": ["assets/sanpham/labode/3.jpg", "assets/sanpham/labode/3a.jpg","assets/sanpham/labode/3b.jpg"],
+            "manghenhan": "6",
+            "chitietsanpham": "The Bodhi leaf is shaped like a heart, but the heart is usually warm, intense and full of affection, so it also symbolizes the love and compassion of the Buddha always for people. Therefore, the gilded bodhi leaf item is known as the guardian deity for everyone. The Bodhi card will help people think things through carefully before deciding on anything. Bodhi leaves also help our mind to be shaded, illuminated, awakened. When it comes to mind it refers to the heart, heart, and conscience of people. All human actions are derived from the heart, the good mind thinks and acts ethically and rightly; If the mind is not good, it will give birth to evil intentions and do many evil and sinful things. The word mind is often used to direct people's thoughts to the good, to cultivate the body, to nourish the nature, to live positively and to do many good things. If the mind is wrong, life will be crazy. If the mind is deceitful, life is not safe. If the mind hates, the life hates. Envy mind, life is not fun. Greedy mind, life is a lie. So, put your heart on your chest to love, put your heart on your hands to help others, put your eyes on your eyes to see the suffering of others, your feet to bring luck to those in need, your mouth to speak. words of consolation to the unfortunate, to the ear to hear the advice of others, to the shoulder to take responsibility. Artist Quang Linh has used the image of a leaf from nature as a background to express the idea that the mind of man, derived from natural things, is the most beautiful, simple, and purest. He had to treat the leaf with the process of drying and squeezing out all the water, which took about 30 days. Then paint on and continue to wait for the leaf to dry to be able to write. Finally, frame, vacuum to keep the work durable over time. Writing beautiful calligraphy on paper was difficult, but Quang Linh was able to write smooth, continuous brush strokes on dry leaves with many rough veins. The brush strokes that begin and end completely represent the full happiness when we live with good intentions. This is a technique that requires practice and long-term experience to be able to write fluently and fluently with words and images that are in harmony with light, color, and composition.",
+            "path": "la-bo-de-chu-tam"
+        },
+        {
+            "masanpham": "11",
+            "madanhmuc": "7",
+            "tensanpham": "Tho calligraphy on the Bodhi leaf",
+            "anhsanpham": ["assets/sanpham/labode/10.jpg", "assets/sanpham/labode/10a.jpeg", "assets/sanpham/labode/10b.jpeg"],
+            "manghenhan": "5",
+            "chitietsanpham": "Bodhi tree is one of the most popular feng shui ornamental plants, they are extremely sacred and bring many high meaningful values ​​in life. Bodhi tree is a woody tree, with an average height of 20-30m, quite large and long-lived. The trunk is brown, the bark is rough, the wood of the tree is very strong and strong, the branches and leaves are very much branched, the foliage is dense, the roots go deep into the soil and take root, the vitality is extremely strong. Bodhi leaves are heart-shaped, about 20-25cm long, with many veins on the surface. The word Tho according to Chinese characters is classified as a scholar consisting of 5 constitutive characters. In the past, the word Tho appeared a lot in architecture such as palaces, the residences of the regal and even in the houses of ordinary people, it was considered a symbol that strengthens the energy of the house. while helping people living in the house to be protected. The word Tho written on the Bodhi leaf not only symbolizes longevity, but also contains feelings and wishes for grandparents, parents... to live a hundred years to enjoy happiness and joy with their children and grandchildren.",
+            "path": "la-bo-de-chu-tho"
+        },
+        {
+            "masanpham": "12",
+            "madanhmuc": "7",
+            "tensanpham": "Loc calligraphy on the Bodhi leaf",
+            "anhsanpham": ["assets/sanpham/labode/7.jpg", "assets/sanpham/labode/7a.jpg","assets/sanpham/labode/7b.jpg","assets/sanpham/labode/7c.jpg"],
+            "manghenhan": "5",
+            "chitietsanpham": "In the set of 3 Phuc - Loc - Tho, the word Loc has many good meanings about people's desire for life. People also often use the word Loc to decorate their homes and offices with the desire to bring many good things to life and work. Today, when it comes to the word Loc, most people will immediately think of fortune and money. However, with the culture from ancient times, the word Loc is the word that represents the perks that the old Quan received. This fortune can be a gift from the King, it can also be a gift from the people. So, Loc here means success, the return to merit, dedication to the people, to the country. Thus, we can understand that the word fortune represents the wish to receive benefits from the court, as a mandarin, this is the wish of most of the ancients, it also represents honor. Currently, through many generations of transmission as well as changes in culture, the meaning of the word Loc is also understood more broadly, not only representing mandarin but also representing wealth and social status. The word Loc written on the Bodhi leaf is a symbol of prosperity, the greatest happiness in human life is abundant fortune, luck and good fortune. That is why, at the beginning of the new year, Vietnamese people often hang pictures of the word Loc in their homes to hope for good fortune to come to life and also have the custom of picking fortune with the meaning of bringing fortune and luck home in a year. next year.",
+            "path": "la-bo-de-chu-loc"
+        }, 
+        {
+            "masanpham": "13",
+            "madanhmuc": "7",
+            "tensanpham": "Calligraphy An on the Bodhi leaf",
+            "anhsanpham": ["assets/sanpham/labode/5.jpg", "assets/sanpham/labode/5a.jpeg","assets/sanpham/labode/5b.jpg"],
+            "manghenhan": "6",
+            "chitietsanpham": "An means peace. Peace and stability. Peace of mind, lightness, peaceful life, no difficulties, many obstacles. Peace of mind, favorable business, success. An has the meaning of destroying violence, the soul is true, eliminating bad behaviors, living and working according to social rules and standards. An means to arrange work. Everything was pre-arranged, according to a clear layout. Work according to a specific plan, certain, in accordance with the goals that have been set. The word peace written on the Bodhi leaf means wishing for good things, having a peaceful life.",
+            "path": "la-bo-de-chu-nhan"
+        },
+        {
+            "masanpham": "14",
+            "madanhmuc": "7",
+            "tensanpham": "Collection of calligraphy samples on Bodhi leaves",
+            "anhsanpham": ["assets/sanpham/labode/6.jpg","assets/sanpham/labode/6a.jpg","assets/sanpham/labode/8.jpg"],
+            "manghenhan": "6",
+            "chitietsanpham": "Bodhi leaf calligraphy is a product line that combines calligraphy and Bodhi leaf. Each product is a content with a different leaf shape, creating a soft touch. Bodhi leaf is a symbol of Buddhism. Bodhi leaf is imbued with traditional Buddhist culture. Bodhi tree is a symbol of luck and all good things. Bodhi leaves bring peace and protection to overcome difficulties and storms in life. Bodhi leaf also has the effect of eliminating evil spirits, strengthening luck, attracting good conditions to help life become happy and complete. The combination of calligraphy and Bodhi leaf is a meaningful gift to give to relatives, friends, partners, and to display in the office, living room, and place of worship.",
+            "path": "tong-hop-thu-phap-la-bo-de"
+        },
+        {
+            "masanpham": "15",
+            "madanhmuc": "3",
+            "tensanpham": "Calligraphy on watermelon",
+            "anhsanpham": ["assets/sanpham/trai-cay/7a.jpg","assets/sanpham/trai-cay/7b.jpg","assets/sanpham/trai-cay/7c.jpg","assets/sanpham/trai-cay/6.jpg"],
+            "manghenhan": "1",
+            "chitietsanpham": "Each watermelon is a work of art, containing beautiful words, beautiful ideas, good luck in the new spring. Through the skillful hands of artists, the objects for worship on Tet holiday suddenly become colorful, solemn and carry many meaningful messages for the owner.",
+            "path": "thu-phap-tren-dua-hau"
+        },
+        {
+            "masanpham": "16",
+            "madanhmuc": "3",
+            "tensanpham": "Calligraphy on grapefruit",
+            "anhsanpham": ["assets/sanpham/trai-cay/1.jpeg","assets/sanpham/trai-cay/2.jpeg","assets/sanpham/Quabuoi1.jpeg","assets/sanpham/Quabuoi2.jpg","assets/sanpham/Quabuoi3.jpg"],
+            "manghenhan": "5",
+            "chitietsanpham": "Each grapefruit is a work of art, containing beautiful words, good ideas, and good luck in the new spring. Through the skillful hands of artists, the objects for worship on Tet holiday suddenly become colorful, solemn and carry many meaningful messages for the owner.",
+            "path": "thu-phap-tren-buoi"
+        },
+        {
+            "masanpham": "17",
+            "madanhmuc": "3",
+            "tensanpham": "Calligraphy on coconut",
+            "anhsanpham": ["assets/sanpham/trai-cay/4.jpg","assets/sanpham/trai-cay/8a.jpg","assets/sanpham/trai-cay/8b.jpg","assets/sanpham/trai-cay/8c.jpg","assets/sanpham/QuaDua1.jpg","assets/sanpham/QuaDua2.jpg","assets/sanpham/QuaDua3.jpg"],
+            "manghenhan": "6",
+            "chitietsanpham": "Each coconut is a work of art, containing beautiful words, beautiful ideas, good luck in the new spring. Through the skillful hands of artists, the objects for worship on Tet holiday suddenly become colorful, solemn and carry many meaningful messages for the owner.",
+            "path": "thu-phap-tren-dua"
+        },
+        {
+            "masanpham": "18",
+            "madanhmuc": "4",
+            "tensanpham": "Hieu calligraphy on stone",
+            "anhsanpham": ["assets/sanpham/da/8.jpg","assets/sanpham/da/8b.jpg", "assets/sanpham/da/8a.jpg"],
+            "manghenhan": "1",
+            "chitietsanpham": "Hieu calligraphy on stone. Filial piety is the principle of worshiping parents, a funeral ritual. Hieu is respect and gratitude to parents. Based on attitudes and behaviors, filial piety is understood through different aspects such as filial piety, filial piety, filial piety, filial piety, filial piety, filial piety…and finally, filial piety. Natural stone material, Easy to decorate in many places: living room, reading room, desk...,Meaningful gift",
+            "path": "chu-hieu-tren-da"
+        },
+        {
+            "masanpham": "19",
+            "madanhmuc": "4",
+            "tensanpham": "From lotus mud",
+            "anhsanpham": ["assets/sanpham/da/4.jpg","assets/sanpham/da/4a.jpg","assets/sanpham/da/4b.jpg"],
+            "manghenhan": "5",
+            "chitietsanpham": "From mud lotus blooms. The lotus as a cultural symbol is deeply rooted in the Vietnamese mind. Therefore, the image of the lotus is almost universal, appearing permanently in decorative projects. Artifacts from a past time that have remained until now have shown many rich images of how the lotus flower was expressed by generations of artisans. That's why lotus is the topic that artists give favor when decorating products. Natural stone material, Easy to decorate in many places: living room, reading room, desk. ...,Gift meaning,Each product is not repeatable,Can be ordered on request,Size; 16x11x21cm",
+            "path": "tu-bun-sen-no"
+        },
+        
+        {
+            "masanpham": "20",
+            "madanhmuc": "4",
+            "tensanpham": "Husband and wife mean deep love",
+            "anhsanpham": ["assets/sanpham/da/5.jpg","assets/sanpham/da/5a.jpg","assets/sanpham/da/5b.jpg"],
+            "manghenhan": "4",
+            "chitietsanpham": "Husband and wife have a deep love. In the relationship of husband and wife, let's turn mistakes and wounds into a 'gold-like' glue that holds the marriage relationship together for a long time, nothing can break it again. That is clearly shown through the words in folk songs, proverbs and poetry. Material: Black Bodhi Stone, Dimensions: Height x Width: 25 x 15 (cm), Meaning: Brings happiness family, husband and wife love",
+            "path": "vo-chong"
+        },
+        {
+            "masanpham": "21",
+            "madanhmuc": "4",
+            "tensanpham": "Live and aspire",
+            "anhsanpham": ["assets/sanpham/da/2.jpg","assets/sanpham/da/2a.jpg","assets/sanpham/da/2b.jpg"],
+            "manghenhan": "6",
+            "chitietsanpham": "Live and aspire. Aspiration to live is the desire, desire, desire to live, to devote oneself to this life. Those who have a desire to live are those who will never accept to give up their dreams no matter how difficult it is. Natural stone material,Easy to decorate in many places: living room, Reading room, desk...,Meaningful gift, Size: 8x6x12cm",
+            "path": "hay-song-va-khat-vong"
+        },
+        {
+            "masanpham": "22",
+            "madanhmuc": "4",
+            "tensanpham": "Calligraphy of the word Heart on stone",
+            "anhsanpham": ["assets/sanpham/da/10.jpg","assets/sanpham/da/10b.jpeg","assets/sanpham/da/10a.jpg"],
+            "manghenhan": "6",
+            "chitietsanpham": "Heart calligraphy on stone. When it comes to Tam, it refers to the heart, heart and conscience of people. All human actions originate from the mind. If the mind is good, then think and act in a positive and ethical way. The mind is not good, it is easy to give birth to actions, thoughts containing many evil intentions, evil things, sins for life. Natural stone material, Easy to decorate in many places: living room, reading room, table work...,meaningful gift",
+            "path": "chu-tam-tren-da"
+        },
+        {
+            "masanpham": "23",
+            "madanhmuc": "6",
+            "tensanpham": "Calligraphy combines graffiti",
+            "anhsanpham": ["assets/sanpham/graffiti/5.jpeg", "assets/sanpham/graffiti/1.jpeg", "assets/sanpham/graffiti/3.jpeg" ],
+            "manghenhan": "4",
+            "chitietsanpham": "Calligraphy has always been known as an elegant hobby of intellectuals, good at languages ​​and passionate about literature. Meanwhile, images of graffiti-covered walls often evoke in people's minds images of 'rebellious' young people, longing to express and assert themselves. Calligraphy and graffiti seem to be different, but there are many similarities from the time of appearance to the use of writing to express the creator's aesthetic. The combination of two different art schools gives viewers new, positive and close experiences and perspectives for both disciplines. The combination of calligraphy and graffiti is bold and interesting. Calligraphy is an Asian tradition and graffiti is a Western, these two types combine to complement each other, bringing new perspectives on calligraphy and graffiti. Graffiti is more than just murals and calligraphy is not old sayings. Graffiti can also be put into luxurious spaces and calligraphy also has words that are close to everyone",
+            "path": "graffiti"
+        },
+        
+               
+        {
+            "masanpham": "27",
+            "madanhmuc": "6",
+            "tensanpham": "Calligraphy ",
+            "anhsanpham": ["assets/sanpham/graffiti/9.jpg", "assets/sanpham/graffiti/8.jpg","assets/sanpham/graffiti/10.jpg","assets/sanpham/graffiti/11.jpg"],
+            "manghenhan": "6",
+            "chitietsanpham": "Calligraphy is a visual art associated with text, made up of handwritten and logically arranged symbols. The focus of Calligraphy is mainly on the design and expression of typefaces with brush or nib writing instruments. Wedding invitations, greeting cards, event texts… as well as artistic designs such as font and typography design, handwritten logo design, graphic design, calligraphy art... - all of them are Calligraphy . As a long-standing art, Calligraphy is considered a symbol of culture, it helps bring great values ​​not only in terms of art but also in spirit. Each Calligraphy handwriting seems to contain the quintessence of thousands of years, containing the priceless cultural features of humanity. Calligraphy lovers who are passionate about Calligraphy will surely practice many good virtues. Patience, concentration, calmness... are all essential for you to practice Calligraphy. This subject not only brings pure spiritual values ​​​​but also gives people a healthy playground, so that they can reduce anxiety and stress, away from the hustle and bustle of life.",
+            "path": "Calligraphy"
+        },
+        {
+            "masanpham": "26",
+            "madanhmuc": "6",
+            "tensanpham": "Some of the works on display",
+            "anhsanpham": ["assets/sanpham/graffiti/3.jpeg", "assets/sanpham/graffiti/2.jpeg","assets/sanpham/graffiti/4.jpeg" ],
+            "manghenhan": "6",
+            "chitietsanpham": "Calligraphy and Graffiti Dialogue Exhibition organized by the Center for Cultural and Scientific Activities of Van Mieu - Quoc Tu Giam in collaboration with the Vietnam National Institute of Culture and Arts to realize the idea of bringing Van Mieu - Quoc Tu Giam to life. become a creative space, a familiar destination for the public who love heritage and culture and art. The exhibition consists of four parts: meeting, dialogue, exchange and empathy with 39 works revolving around the themes of teacher-disciple morality, learning, self-training, books and reading culture, Temple of Literature - Quoc Tu Giam, Vietnam and famous landmarks of the country. The exhibition opens up unlimited possibilities for interaction and learning between calligraphy and graffiti practitioners, a successful dialogue in the spirit of mutual respect and respect for diversity.",
+            "path": "tac-pham-trien-lam"
+        },
+        {
+            "masanpham": "28",
+            "madanhmuc": "5",
+            "tensanpham": "Buddha's Teachings",
+            "anhsanpham": ["assets/sanpham/vai/4.jpg","assets/sanpham/vai/4a.jpg","assets/sanpham/vai/4b.jpg"],
+            "manghenhan": "1",
+            "chitietsanpham": "Buddha's teachings. The Buddha taught that there are two strongest types of people, one is not guilty, the other is repentant. Size: 80cm x 200cm,Material: Acrylic paint, Painting line: Copy",
+            "path": "loi-phat-day"
+        },
+        {
+            "masanpham": "30",
+            "madanhmuc": "5",
+            "tensanpham": "Set of 3 calligraphy paintings Tai - Tam - Duc",
+            "anhsanpham": ["assets/sanpham/vai/2.jfif","assets/sanpham/vai/2a.jpg","assets/sanpham/vai/2b.jpg"],             
+            "manghenhan": "2",
+            "chitietsanpham": "Set of 3 calligraphy paintings Tai - Tam - Duc. Oriental people in general and Vietnamese in particular put the writing on the top, they consider home decorations: First word, second picture, three earthenware, four ornamental plants and consider it a form of spiritual art. Vietnamese Calligraphy paintings have inherited the most quintessence of humanity when combining East and West cultures. Using brushes and ink of the East to write Latin letters of the West. Set of 3 calligraphy paintings 'Tai- Tam - Duc' | Living room wall paintings are suitable for hanging in the living room, office, ... in addition to decoration, it also means to remind yourself.",
+            "path": "tai-tam-duc"
+        },
+        {
+            "masanpham": "31",
+            "madanhmuc": "5",
+            "tensanpham": "Oil painting calligraphy on canvas",
+            "anhsanpham": ["assets/sanpham/vai/6.png","assets/sanpham/vai/7.png","assets/sanpham/vai/8.png","assets/sanpham/vai/9.png"],
+            "manghenhan": "5",
+            "chitietsanpham": "Calligraphy oil on canvas. The canvas material and oil paint are both water resistant, so it is very suitable for the hot and humid climate in Vietnam. In addition, thanks to this feature, it is very easy to clean canvas paintings with a damp rag. Canvas paintings will be very suitable when hanging in spaces or apartments that are prone to mold.",
+            "path": "son-dau-tren-vai-toan"
+        },
+        {
+            "masanpham": "32",
+            "madanhmuc": "5",
+            "tensanpham": "Calligraphy on silk fan",
+            "anhsanpham": ["assets/sanpham/vai/10.jpg","assets/sanpham/vai/10a.jpg","assets/sanpham/vai/10b.jpg"],
+            "manghenhan": "3",
+            "chitietsanpham": "Calligraphy on silk fan. The main use of the fan is to cool the fan. But in the sacrificial life, it becomes a versatile, multi-use product. This special feature of Vietnamese handmade fans probably comes from their own beauty and the variety of materials, types and styles they are worth. And it seems that the use value of fans in social life has far exceeded the original desire of their inventors! The talent of Vietnamese artisans and manual fan makers, therefore, has made us respect and admire.",
+            "path": "quat-lua"
+        }
+
+
+
+        
+    ],
+    "nghenhan": [
+        {
+            "manghenhan": "1",
+            "tennghenhan": "Huynh Ngoc Quyen"
+        },
+        {
+            "manghenhan": "2",
+            "tennghenhan": "Nguyen Huu Phap"
+        },
+        {
+            "manghenhan": "3",
+            "tennghenhan": "Vo Tuan Xuan Thanh"
+        },
+        {
+            "manghenhan": "4",
+            "tennghenhan": "Nguyen Thanh Tung"
+        },
+        {
+            "manghenhan": "5",
+            "tennghenhan": "Vo Duong"
+        },
+        {
+            "manghenhan": "6",
+            "tennghenhan": "Quang Linh"
+        }
+
+
+    ],
+
+    "bgthietke": [
+        "assets/bg-ds1.jpg",
+        "assets/bg-ds2.jpg",
+        "assets/bg-ds3.jpg",
+        "assets/bg-ds4.jpg",
+        "assets/bg-212.jpg",
+        "assets/bg-213.jpg"
+    ]
+}

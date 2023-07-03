@@ -1,0 +1,67 @@
+<div class="product-item">
+  <div class="row">
+    <div class="col-3">
+      <div class="product-item__img">
+        <img ng-src="{{product.anhsanpham[0]}}" alt="" class="img-bg" />
+        <img ng-src="{{product.anhsanpham[0]}}" alt="" class="img-main" />
+      </div>
+    </div>
+    <div class="col-9 ps-5">
+      <div class="product-item__content">
+        <p>Product: {{product.tensanpham}}</p>
+        <p>Artist: {{ngheNhanFilter(product.manghenhan)}}</p>
+        <p>{{product.chitiet}}</p>
+        <button class="btn-read-more">
+          See more
+          <div class="popup-read-more hide-popup">
+            <p>Product: {{product.tensanpham}}</p>
+            <p>Artist: {{ngheNhanFilter(product.manghenhan)}}</p>
+            <div class="popup-pic">
+              <img ng-src="{{product.anhsanpham[0]}}" alt="" class="img-bg" />
+              <img ng-src="{{product.anhsanpham[1]}}" alt="" class="img-bg" />
+              <img ng-src="{{product.anhsanpham[2]}}" alt="" class="img-bg" />
+            </div>
+            <p class="popup-desc">{{product.chitietsanpham}}</p>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .product-item {
+    margin-top: 40px;
+    margin-bottom: 50px;
+  }
+  .product-item .product-item__img img {
+    border: 4px solid var(--app-color);
+    width: 100%;
+    height: 100%;
+  }
+  .product-item__img {
+    position: relative;
+  }
+  .img-main {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    transition: all ease-in 0.25s;
+  }
+  .product-item__content {
+    width: 100%;
+  }
+  .img-main:hover {
+    transform: scale(1.1);
+  }
+  .btn-read-more {
+    background-color: transparent;
+    border: 1px solid var(--app-color);
+    color: #fff;
+    padding: 10px;
+  }
+  .btn-read-more:hover {
+    font-weight: bold;
+    box-shadow: 0 0 10px 0 var(--app-color);
+  }
+</style>

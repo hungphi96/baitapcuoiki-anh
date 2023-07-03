@@ -1,0 +1,75 @@
+<ul class="menu">
+    <li>
+        <a href="#intro">Introduce</a> 
+        <ul class="menu-product-drop">
+            <div ng-include="'components/gioithieu.htm'"></div>
+        </ul>
+    </li>
+    <li>
+        <a href="#!ve-chung-toi">About us</a>
+    </li>
+    <li>
+        <a>Calligraphy works</a>
+        <ul class="menu-product-drop">
+            <div ng-include="'components/Category.htm'"></div>
+        </ul>
+    </li>
+    <li>
+        <a href="#!cau-lac-bo">Calligraphy Club</a>
+    </li>
+    <li>
+        <a href="#!thiet-ke">Design</a>
+    </li>
+    <li>
+        <a href="#!lien-he">Contact</a>
+    </li>
+</ul>
+
+<style>
+    .menu {
+        width: 100%;
+        /* display: flex; */
+    }
+
+    .menu>li {
+        height: 100%;
+        position: relative;
+    }
+
+    .menu > li:hover > ul {
+        display: block;
+    }
+    .menu>li>a {
+        cursor: pointer;
+        padding: 0 20px;
+    }
+
+    .menu-product-drop {
+        z-index: 2;
+        display: none;
+        position: absolute;
+        background-image: url('assets/bg-heading.jpg');
+        width: max-content;
+        left: 50%;
+        text-align: center;
+        transform: translateX(-50%);
+        border: 1px solid var(--app-color);
+    }
+
+    .menu-product-drop a {
+        color: var(--app-color);
+        font-size: 18px;
+        font-weight: bold;
+        padding-left: 20px;
+        padding-right: 20px;
+        line-height: 60px;
+    }
+
+    .menu-product-drop a:hover {
+        color: #fff;
+    }
+
+    .menu-product-drop h5 {
+        display: none;
+    }
+</style>
